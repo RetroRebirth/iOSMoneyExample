@@ -15,8 +15,6 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        let test = iOSMoney(cents: 12345)
-        label.text = test.format()
     }
 
     override func didReceiveMemoryWarning() {
