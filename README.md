@@ -1,2 +1,2 @@
 # iOSMoneyExample
-Basic application demonstrating iOSMoney swift class.
+Money and currency handling. Written in Swift. Inspired by Ruby Money.
